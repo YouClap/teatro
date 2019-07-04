@@ -1,6 +1,6 @@
-# Insert here a fancy name to your repository ✨🥰
+# Teatro  👨‍🎨🖌
 
-What is it? Add a nice and concise description about this 📝
+An image service that loads, resizes and distributes through CDN.
 
 
 # About
